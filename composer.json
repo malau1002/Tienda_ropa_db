@@ -1,0 +1,13 @@
+{
+    "name": "tiendaropa/db",  
+    "description": "API para gestionar tienda de ropa",
+    "autoload": {
+    "psr-4": {
+        "App\\": "app/"
+    }
+    },
+    "require": {
+    "php": ">=7.4",
+    "slim/slim": "^4.0"
+    }
+}
